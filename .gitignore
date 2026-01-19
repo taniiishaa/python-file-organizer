@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Project-specific: Ignore the folders your script creates 
+# (Only if you don't want your organized test folders on GitHub)
+Images/
+Documents/
+Videos/
+Audio/
+Archives/
+Executables/
+Others/
+
+# IDE specific
+.vscode/
+.idea/
